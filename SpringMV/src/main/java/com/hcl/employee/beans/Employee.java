@@ -7,9 +7,6 @@ import lombok.Setter;
 import lombok.ToString;
 
 @Data
-@Getter
-@Setter
-@ToString
 @AllArgsConstructor
 public class Employee {
 	public Employee() {
